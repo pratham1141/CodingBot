@@ -1,2 +1,3 @@
-# CodingBot
-New repo
+# E-Commerce Platform Testing
+
+Automated tests using Selenium and Pytest.
